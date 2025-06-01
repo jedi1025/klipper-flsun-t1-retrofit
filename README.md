@@ -15,3 +15,12 @@ Klipper software is Free Software. See the [license](COPYING) or read
 the [documentation](https://www.klipper3d.org/Overview.html). We
 depend on the generous support from our
 [sponsors](https://www.klipper3d.org/Sponsors.html).
+
+
+all that out of the way...
+
+
+DO NOT USE THIS YET.  IT IS STILL A WORK IN PROGRESS!!!!!
+
+
+More to come...
