@@ -39,4 +39,18 @@ That being said, if you try it, whatever the results, please do share them.
 Update 06/02/2025:
 Yup, Amazon strikes again.  Kraken DOA...3 more days...
 
+Update 06/13/2025:
+It's a functional printer!  Haven't tested anything higher than 400mm/s due to belt and hot end mechanical issues.
+But, up to that speed is a good printer.  ADXL is currently disabled, as is load cell bed leveling.  In it's place, and end stop connector is wired up to 
+the nozzle and the metallic side of the bed.  SLOW approach to avoid ramming the bed...cold delta calibrate and ONE hot bed mesh should not damage either hotend or nozzle.
+When they contact circuit closes and next spot to test.  Working config file can be found at:
+/config/flsun-retrofit/basic_printer.cfg
+
+If you want to try going for full stock speed up front:
+/config/flsun-retrofit/stock_speed_printer.cfg
+
+
+Either way you will almost certainly have to reconfigure the pin assignments.  Odds are the rest of klipper's config files should have something that matches your board.
+
+
 More to come...
