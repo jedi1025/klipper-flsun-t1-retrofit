@@ -52,5 +52,7 @@ If you want to try going for full stock speed up front:
 
 Either way you will almost certainly have to reconfigure the pin assignments.  Odds are the rest of klipper's config files should have something that matches your board.
 
+I still TAKE NO RESPONSIBILITY for YOUR hardware.  This works on MINE...at least well enough that i feel confident sharing.  It is YOUR RESPONSIBILITY to confirm all data contained
+in these config files BEFORE applying any of them.
 
 More to come...
