@@ -44,10 +44,11 @@ It's a functional printer!  Haven't tested anything higher than 400mm/s due to b
 But, up to that speed is a good printer.  ADXL is currently disabled, as is load cell bed leveling.  In it's place, and end stop connector is wired up to 
 the nozzle and the metallic side of the bed.  SLOW approach to avoid ramming the bed...cold delta calibrate and ONE hot bed mesh should not damage either hotend or nozzle.
 When they contact circuit closes and next spot to test.  Working config file can be found at:
+ 
 /config/flsun-retrofit/basic_printer.cfg
 
 If you want to try going for full stock speed up front:
-
+ 
 /config/flsun-retrofit/stock_speed_printer.cfg
 
 
