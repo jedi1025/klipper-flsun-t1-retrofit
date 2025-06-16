@@ -51,6 +51,9 @@ If you want to try going for full stock speed up front:
  
 /config/flsun-retrofit/stock_speed_printer.cfg
 
+My current useable config file:
+
+/config/flsun-retrofit/current/printer.cfg
 
 Either way you will almost certainly have to reconfigure the pin assignments.  Odds are the rest of klipper's config files should have something that matches your board.
 
