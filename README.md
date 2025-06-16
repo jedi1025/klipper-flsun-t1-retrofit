@@ -25,7 +25,7 @@ DO NOT USE THIS YET.  IT IS STILL A WORK IN PROGRESS!!!!!
 HOWEVER...
 
 Update 06/01/2025:
-/config/flsun-retrofit/WIP-printer.cfg "SHOULD" be good enough to get started with.  
+~~/config/flsun-retrofit/WIP-printer.cfg "SHOULD" be good enough to get started with.~~
 
 I have a new Intel SBC and BTT Kraken arriving tomorrow (hopefully...thanks Amazon) and 
 will begin actual testing once all is wired up.  If you wish to test this config file on 
