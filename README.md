@@ -60,9 +60,13 @@ you'll need to iron out whatever little details specific to your setup.
 
 I still TAKE NO RESPONSIBILITY for YOUR hardware.  This works on MINE...at least well enough that i feel confident sharing.  It is YOUR RESPONSIBILITY to confirm all data contained
 in these config files BEFORE applying any of them.  IF YOU ARE ATTEMPTING THIS, I EXPECT THAT:
+
      1. YOU KNOW WHAT YOU ARE DOING
+
      2. YOU ARE COMFORTABLE WORKING WITH SENSITIVE ELECTRONICS AND POTENTIALLY DANGEROUS VOLTAGES AND AMPERAGES
+     
      3. YOU ARE ASSUMING ALL RESPONSIBILITY FOR ANY DAMAGE AS A RESULT OF TRYING THIS
+     
      4. YOU HAVE THE SAME LOVE/HATE RELATIONSHIP WITH THESE PRINTERS THAT I DO...or something like that.
 
 More to come...
